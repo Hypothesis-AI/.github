@@ -4,33 +4,27 @@
 
 # Hypothesis AI
 
-**Personalized Market Intelligence & Investor DNA**
-
-*Where ideas compound into actions.*
+**Institutional-grade research, built for the individual investor.**
 
 [hpts.ai](https://hpts.ai) · [Substack](https://substack.com/@yourhypothesis) · [Instagram](https://www.instagram.com/yourhypothesis/) · [TikTok](https://www.tiktok.com/@your_hypothesis) · [X](https://x.com/yourhypothesis) · [LinkedIn](https://www.linkedin.com/company/yourhypothesis/)
 
 </div>
 
----
-
 ## What We're Building
 
 Hypothesis AI is a **personalized market intelligence platform** built for retail investors who want to cut through the noise.
 
-We believe every investor has a unique style — a distinct fingerprint shaped by conviction, risk tolerance, and the thinkers they trust. We call that your **Investor DNA**.
-
-Hypothesis helps you discover it and understand it.
+Our belief:
+- Research is a right of participation, not a perk of scale.
+- Context beats volume. The problem is not too little information. It is too much, arranged for someone else.
+- The starting point matters. We are building the starting point for investing.
+- Tools, not tips. We give you evidence, sourcing, and context. The call is yours.
 
 > *Hypothesis provides research, tools, and context, not investment advice. Investing carries risk, including loss of principal. Figures shown are illustrative.*
-
----
 
 ## Status
 
 We're currently in **private development**. A waitlist is open at [hpts.ai](https://hpts.ai).
-
----
 
 ## Stay in the Loop
 
